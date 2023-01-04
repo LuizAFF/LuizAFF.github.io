@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://luizaff.github.io"
 title = "Luiz Augusto Frazatto Fernandes"
-description = "Electronic engineer based in Brazil. I'm interested in Analog/Mixed-Signal Itegrated Circuits and Embedded Systems"
+description = "Electronic engineer based in Brazil. I'm interested in Analog/Mixed-Signal Integrated Circuits and Embedded Systems and lots of other (not so) unrelated things."
 
 theme = "hyde"
 
